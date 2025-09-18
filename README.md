@@ -1,12 +1,12 @@
 # Super-Store-Sales-Dashboard
 
-1.Project Overview
+**1.Project Overview**
 
  This Super Store Sales Dashboard provides a complete view of business performance using Excel sales data as the source.
  
 It highlights key KPIs, shipping mode performance, customer segment analysis, and year-over-year growth, helping stakeholders make data-driven decisions.
 
-2.Dashboard Objectives
+**2.Dashboard Objectives**
 
   Track Total Sales, Total Profit, and Total Orders with interactive KPI cards.
   
@@ -18,7 +18,7 @@ It highlights key KPIs, shipping mode performance, customer segment analysis, an
   
   Enable drill-down and filtering by time period (Year, Quarter, Month), Region, and Segment.
 
-3.Tech Stack
+**3.Tech Stack**
 
   Power BI Desktop - Main data visualization platform used for report creation.
   
@@ -28,7 +28,7 @@ It highlights key KPIs, shipping mode performance, customer segment analysis, an
   
   Data Modeling - Releationships estalished among tables(order,peopele).
 
-4.Dataset
+**4.Dataset**
 
   File Name: Super store.xlsx
   
@@ -38,7 +38,7 @@ It highlights key KPIs, shipping mode performance, customer segment analysis, an
   
   Key Columns: Order Date, Order ID, Sales, Profit, Quantity, Ship Mode, Region, Segment, Category, Sub-Category
 
-5.Visuals
+**5.Visuals**
 
   Profit by Ship Mode – Bar chart showing profit contribution of each shipping mode
   
@@ -50,11 +50,11 @@ It highlights key KPIs, shipping mode performance, customer segment analysis, an
   
   YoY Sales & Profit – Line chart showing growth trend over years
 
-6.Filters / Slicers
+**6.Filters / Slicers**
 
   Year, Quarter, Month, Region, Segment
   
-7.KPI Cards
+**7.KPI Cards**
 
   Total Sales – Total revenue from all orders
   
@@ -62,7 +62,7 @@ It highlights key KPIs, shipping mode performance, customer segment analysis, an
   
   Total Orders – Distinct order count
 
-8.Key Insights
+**8.Key Insights**
 
   Standard Class shipping is the most profitable and widely used mode.
   
@@ -72,7 +72,7 @@ It highlights key KPIs, shipping mode performance, customer segment analysis, an
   
   Certain sub-categories show negative profit despite high sales → review pricing strategy.
 
-9.Future Enhancements
+**9.Future Enhancements**
 
   Automate Excel data refresh (connect to live data source if available).
   
